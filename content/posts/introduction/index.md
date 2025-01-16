@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+date: 2025-01-08T08:00:00-05:00
+description: Introduction
 menu:
   sidebar:
     name: Introduction
@@ -11,8 +11,8 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Greeting! I'm Jeff Carstensen, a cybersecurity professional and a homelab enthusiast. I made the choice in 2024 to move from an airport operations careers to my second love and computers. I have nearly 2 decades of experience in government compliance, from my time in the United States Air Force, to my time in the civilian airport operations working with DHS, TSA and FAA to ensure compliance across multiple areas of airport operations, form airside operations, and both airside and terminal security. My mos t recent position was as a enivronmental health and safety specialist for a manfucturering company. where I was responsible for ensuring the safety of the facility and the employees.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+I have a passion for cybersecurity. I have worked with a variety of technologies, including Windows, Linux, macOS, and iOS. I have also worked in a variety of industries, including healthcare, aviation, retail, and manufacturing.
+
+I have a strong background in security operations, and I have a deep understanding of the cybersecurity landscape.  I am a certified Security professional earning my CompTIA Security+ certification.

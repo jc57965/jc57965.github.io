@@ -11,61 +11,62 @@ section:
 
 # filter buttons
 buttons:
-- name: All
-  filter: "all"
-- name: Basic
-  filter: "basic"
-- name: Language
-  filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
+  - name: All
+    filter: "all"
+  - name: Basic
+    filter: "basic"
+  - name: Language
+    filter: "language"
+  - name: Virtualization
+    filter: "virtualization"
+  - name: Others
+    filter: "others"
+  - name: OS
+    filter: "os"
 
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
+  - name: Virtualization
+    logo: /images/sections/skills/vm.svg
+    summary: "Capable of deploying, managing virtual machines on both on premise and cloud. Experienced in working with both type 1 and type 2 hypervisors."
+    categories: ["virtualization"]
+    url: "https://www.redhat.com/en/topics/virtualization/what-is-a-hypervisor"
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
+  - name: YAML Development
+    logo: /images/sections/skills/yaml.svg
+    summary: "Using as the main language for much of my coding projects. Capable of writing scalable, testable, and maintainable code. experience with JSON and Python as well."
+    categories: ["basic", "language"]
+    url: "https://yaml.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
+  - name: Cloud Computing
+    logo: /images/sections/skills/cloud.svg
+    summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+    categories: ["others"]
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
+  - name: Docker
+    logo: /images/sections/skills/docker.svg
+    summary: "run most of my server-side applications as dockerized container. Experienced with multi-stage, multi-arch build process."
+    categories: ["container"]
+    url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
+  - name: Databases
+    logo: /images/sections/skills/database.svg
+    summary: "Experienced with MySQL, PostgreSQL, MariahDB, and Elasticsearch."
+    categories: ["basic"]
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
+  - name: Linux
+    logo: /images/sections/skills/linux.png
+    summary: "Using as the one of main operating system.  Capable of writing bash/shell scripts."
+    categories: ["basic", "OS"]
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
+  - name: MacOS
+    logo: /images/sections/skills/apple.svg
+    summary: "other main operating system. Used for content creation and editing."
+    categories: ["basic", "OS"]
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  - name: Git
+    logo: /images/sections/skills/git.svg
+    summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+    categories: ["basic"]
+    url: "https://git-scm.com/"

@@ -6,68 +6,71 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    logo: /images/sections/experiences/company1.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: Express Employment Professionals
+      url: "https://www.expresspros.com"
+      location: Davenport, IA
+      #logo: /images/sections/experiences/company1.png
+      # Can optionally show a different logo for dark theme
+      # darkLogo: /images/sections/experiences/company1.jpg
+      # company overview
+      overview: Contract work for manufacturing company. helping them improved and solidified their Environmental Health and Safety (EHS) program.
+    positions:
+      - designation: Envirmental Health and Safety (EHS) Program Coordinator
+        start: Jan 2023
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        end: Apr 2023
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Design and develop small generator hazardous waste storage and disposal program.
+          - Design, develop and lead facility Emergency management response plan. worked with plant manger and key staff to develop and implement emergency response plan and trained all employees.
+          - conduct root cause analysis and develop and implement corrective actions plan for any plant injuries and accidents.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  - company:
+      name: City of Garden City
+      url: "https://www.garden-city.org"
+      location: Garden City, KS
+      #logo: /images/sections/experiences/company2.png
+      overview: Served as Operations and Maintenance Director for Garden City Regional Airport
+    positions:
+      - designation: Airport Operationss & Maintenance Director
+        start: Jun 2023
+        end: Nov 2023
+        responsibilities:
+          - Responsible for the development, compliance, and evaluation of the Storm water Pollution Prevention Plan (SWPPP),
+          - Maintained compliance with all aspects of the Airport Certification Manual (ACM)
+          - Oversaw implementation of Safety Program, attended city safety meetings and training, and provided safety training to airport staff
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    logo: /images/sections/experiences/company2.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: Tulsa Airports Improvement Trust
+      url: "https://www.flytulsa.com"
+      location: Tulsa, OK
+      logo: /images/sections/experiences/company3.jpg
+      overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    positions:
+      - designation: Airport Operations Agent
+        start: Apr 2017
+        end: May 2023
+        responsibilities:
+          - Monitored airport airside activity to ensure compliance with FAA, DHS, TSA standards
+          - Ensure compliance with Airport Security Plan (ASP) by coordinating with Airport Police and TSA.
+          - Served as evaluator for airport operations, during Airport’s 2022 Full scale emergency exercise.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
-    # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: PAE Inc
+      url: "https://www.pae.com"
+      location: North Las Vegas, NV
+      logo: /images/sections/experiences/company4.jpg
+      overview: Worked with various agencies to control airfield activity at Creech AFB’s Airfield Management Facility.
+    positions:
+      - designation: Air Traffic Control - Station
+        start: Sep 2011
+        end: Apr 2017
+        responsibilities:
+          - Initate and coordinate airfield response to aircraft emergenices and security incidents.
+          - Position required ability to integrate RPA (Remotely Piloted Aircraft) operations with airfield regulations
+          - Improved Airfield Lighting Outage Tracking, resulting in safer flight operations.
