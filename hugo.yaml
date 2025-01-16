@@ -51,9 +51,9 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  #gitRepo: https://github.com/jc57965/jeffcarstensen.com
+  gitRepo: https://github.com/jc57965/jeffcarstensen.com
   # Default branch of your Git repo
-  #gitBranch: main
+  gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
@@ -63,9 +63,9 @@ params:
     theme:
       enable: true
       services:
-        light: false
-        dark: true # enable dark theme. default "true"
-        default: dark # can be either light, dark or system. default "system"
+        light: "false"
+        dark: "true" # enable dark theme. default "true"
+        default: "dark"" # can be either light, dark or system. default "system"
 
     # Enable and configure portfolio
     portfolio:
