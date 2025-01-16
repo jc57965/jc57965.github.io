@@ -59,13 +59,9 @@ params:
   topNavbar:
     maxVisibleSections: 8
 
-    # Configure theme color settings
-    theme:
+    # Configure Dark Mode settings
+    darkMode:
       enable: true
-      services:
-        light: false
-        dark: true # enable dark theme. default "true"
-        default: dark # can be either light, dark or system. default "system"
 
     # Enable and configure portfolio
     portfolio:
