@@ -8,4 +8,5 @@ section:
 
 # posts to feature
 posts:
-- My_2025_Homelab
+  - My_2025_Homelab
+  - Why_MFA

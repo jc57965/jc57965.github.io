@@ -1,11 +1,11 @@
 ---
 title: "why MFA is an absolute must"
-date: 2025-01-08T08:06:25+06:00
+date: 2025-01-17T08:06:25+06:00
 description: SMS MFA also is as bad as the cybersecurity industry says it is.
 menu:
   sidebar:
     name: Why MFA
-    identifier: why-mfa
+    identifier: Why_MFA
     parent: Digital-Security
     weight: 10
 author:

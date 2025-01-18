@@ -1,6 +1,6 @@
 baseURL: https://jeffcarstensen.com
 
-languageCode: en
+languageCode: en-us
 title: "JC's Tech Corner"
 
 # Use Hugo modules to add theme
@@ -55,6 +55,7 @@ params:
   # Default branch of your Git repo
   gitBranch: main
 
+  features:
   # Configure the number of section title visible in the top navbar
   topNavbar:
     maxVisibleSections: 8
