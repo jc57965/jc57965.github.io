@@ -1,9 +1,5 @@
-module github.com/jc5796/jeffcarstensen.com
+module github.com/jc57965/jeffcarstensen.com
 
-go 1.21
+go 1.23.5
 
 require github.com/hugo-toha/toha/v4 v4.7.0 // indirect
-
-// replace(
-//     github.com/hugo-toha/toha/v4 => ../toha
-// )

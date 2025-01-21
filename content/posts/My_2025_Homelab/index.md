@@ -1,6 +1,6 @@
 ---
 title: "My 2025 Homelab"
-date: 2025-01-08T08:06:25+06:00
+date: 2025-01-15T08:06:25+06:00
 description: a walkthrough of my improved homelab setup
 menu:
   sidebar:
